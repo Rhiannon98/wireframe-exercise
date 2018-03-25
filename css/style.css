@@ -1,12 +1,13 @@
+/* body {
 
+} */
 
-
-
-
-ul {
+.header {
   background-color: cyan;
+  align-items: center;
 }
 
 footer {
   background-color: darkcyan;
 }
+
